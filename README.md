@@ -15,6 +15,6 @@ This repository documents my work and learning throughout the SOST20131 course. 
 
 ## About me
 
-I am a student at The University of Manchester with an interest in economics, data analysis, and quantitative research.
+I am Jessica at The University of Manchester with an interest in economics, data analysis, and quantitative research.
 
 This repository will be updated as I progress through the course.
